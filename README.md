@@ -7,4 +7,5 @@ Create react project with
       (npx create-react-app learn_app)
 
 cd learn_app
+
 npm start
